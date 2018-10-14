@@ -1,0 +1,19 @@
+body{
+    background-color: orchid;
+}
+
+div{
+    max-width: 600px;
+    padding: 0%
+}
+h1{
+    color: blue;
+}
+wordLetters{
+    color: goldenrod;
+    padding: 20px;
+    margin: 5px;
+}
+button{
+    color: red;
+}
